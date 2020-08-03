@@ -1,0 +1,9 @@
+# generic
+*.pyc
+
+# IDEs
+.idea
+.vscode
+
+# SQLite database
+*.sqlite3
